@@ -15,6 +15,18 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".account.AccountActivity">
+        </activity>
+        <activity android:name=".collection.CollectActivity">
+        </activity>
+        <activity android:name=".local.LocalVideoActivity">
+        </activity>
+        <activity android:name=".recommend.RecommendActivity">
+        </activity>
+        <activity android:name=".share.ShareActivity">
+        </activity>
+        <activity android:name=".upload.UploadActivity">
+        </activity>
     </application>
 
 </manifest>
